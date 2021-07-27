@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ProfGrudzien
-- 🌱 I’m currently teaching SNT (Sciences Numériques et Technologie) and NSI (Numérique et Sciences Informatiques)
+- 🌱 I’m currently teaching SNT (Sciences Numériques et Technologie), NSI (Numérique et Sciences Informatiques) and Mathématiques.
 - 💞️ I’m looking to collaborate on teaching oriented projects
 - 📫 How to reach me : paul.grudzien@ac-aix-marseille.fr
 
